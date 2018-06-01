@@ -1,3 +1,8 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -40,57 +45,4 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-}
-*{
-    box-sizing: border-box;
-}
-
-
-
-body{
-    margin: 0px;
-}
-
-.rowone{
-    height: 14vh;
-    background-color: lightgrey;
-    padding: .05px;
-}
-
-.box{
-    height: 11vh;
-    width: 11vh;
-    background-color:rgb(67, 132, 229);
-    margin-left: 30px;
-    margin-top: 15px;
-}
-
-.rowtwo{
-    height: 26vh;
-    background-color: white;
-    margin: auto;
-    width: 70%;
-    padding-top: 50px;
-    text-align: left;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.rowthree{
-    height: 14vh;
-    background-color: rgb(67, 132, 229);
-}
-
-.rowfour{
-    height: 14vh;
-    background-color: rgb(87, 223, 183);
-}
-
-.rowfive{
-    height: 14vh;
-    background-color:rgb(180, 230, 108);
-}
-
-.rowsix{
-    height: 14vh;
-    background-color:rgb(248, 228, 0);
 }

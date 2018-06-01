@@ -1,0 +1,35 @@
+body{
+    background: white;
+    margin: 0;
+}
+
+.top{
+width:auto;
+height: 170px;
+background-color: darkslategrey;
+
+}
+
+.sides{
+
+}
+.right{
+float: right;
+width:150px;
+height:700px;
+background-color: grey;
+margin-top: 0;
+
+}
+.left{
+float: left;
+width:150px;
+height:700px;
+background-color: grey;
+}
+.bottom{
+width: 73%;
+height: 100px;
+background-color: darkslategrey;
+margin: 600px auto;
+}
